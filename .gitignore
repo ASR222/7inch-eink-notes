@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+out/
+preview/
+local.env
+CLAUDE.md
+
+# personal notes kept out of the public repo
+notes/Placements/
+anki/Placements/
